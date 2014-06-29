@@ -1,0 +1,8 @@
+■Selenium2インストール
+http://d.hatena.ne.jp/i_matsui/20130814/1376449964
+
+
+■Eclipseの既存プロジェクトをMavenプロジェクトに変換する
+http://did2memo.net/2012/12/03/how-to-convert-eclipse-project-with-ant-to-maven-project-procedure/
+
+■githubにmemoを作成
